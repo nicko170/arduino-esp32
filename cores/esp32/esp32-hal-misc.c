@@ -293,7 +293,7 @@ void initArduino() {
 //   if (!btInUse()) {
 //    esp_bt_controller_mem_release(ESP_BT_MODE_BTDM);
 //  }
-#endif
+// #endif
   init();
   initVariant();
 }
